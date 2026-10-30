@@ -1,0 +1,33 @@
+ACTIVEPATH - VERSÃO PILOTO PARA RUI FERREIRA
+
+PUBLICAÇÃO
+1. Criar um repositório público novo no GitHub, por exemplo ActivePath-Pilot.
+2. Extrair este ZIP.
+3. Carregar TODOS os ficheiros extraídos diretamente na raiz do repositório.
+4. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+5. Abrir o novo endereço no Chrome Android.
+6. Remover qualquer instalação/atalho antigo da ActivePath.
+7. Menu do Chrome > Instalar aplicação ou Adicionar ao ecrã principal.
+
+PRIMEIRA UTILIZAÇÃO
+- Perfil: confirmar Rui Ferreira, definir peso inicial e data e guardar.
+- Iniciar Treino A, B ou C.
+- Em cada série: preencher kg e repetições e marcar Feito.
+- O descanso inicia automaticamente e dá avisos por voz.
+- Depois do sexto exercício, a aplicação passa para a Tabata.
+- Os dados ficam guardados automaticamente no dispositivo.
+
+SEGURANÇA DOS DADOS
+- Criar uma Cópia JSON semanal em Perfil.
+- Não usar modo anónimo.
+- Não limpar dados do site/aplicação sem exportar a cópia JSON.
+
+TESTES PASSADOS
+- PWA, manifesto e service worker.
+- Planos A, B e C, seis animações por plano.
+- Treino completo de seis exercícios.
+- Cronómetro, +15 segundos, saltar pausa e voz.
+- Tabata e conclusão da sessão.
+- Peso inicial e peso atual.
+- Histórico, resumos, gráficos, JSON e CSV.
+- Persistência após fechar e reabrir.

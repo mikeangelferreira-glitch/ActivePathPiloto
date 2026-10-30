@@ -1,0 +1,11 @@
+ACTIVEPATH - ÍCONE ORIGINAL COM RECORTE CORRIGIDO V3
+
+Esta versão preserva exatamente o logótipo original. Apenas remove a faixa do slogan e centra o símbolo + nome ActivePath numa margem segura. Não existe qualquer redesenho.
+
+Os nomes dos ícones mudaram para V3, forçando o Android a descarregar o recorte novo.
+
+1. Criar/publicar num repositório novo.
+2. Carregar todos estes ficheiros para a raiz.
+3. Ativar GitHub Pages.
+4. Remover do ecrã principal qualquer instalação anterior.
+5. Abrir o novo endereço no Chrome e instalar novamente.
